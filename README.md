@@ -16,17 +16,17 @@
 
 [mq](https://github.com/houbb/mq) 是基于 netty 实现的 java mq 框架，类似于 rocket mq。
 
-### 手写 [EF-Redis](https://github.com/wiqer/ef-redis)
+### 手写 redis server
 
-ef-Redis是java 版本的redis server
+[EF-Redis](https://github.com/wiqer/ef-redis)是java 版本的redis server
 
-### SmartMvc：手写简易版MVC框架
+### 手写简易版MVC框架
 
 [https://github.com/silently9527/SmartMvc](https://github.com/silently9527/SmartMvc)
 
 ### 用java写一个简单的区块链
 
-**[博客地址:https://blog.csdn.net/junmoxi/article/details/79740930](https://blog.csdn.net/junmoxi/article/details/79740930)**
+博客地址: [https://blog.csdn.net/junmoxi/article/details/79740930](https://blog.csdn.net/junmoxi/article/details/79740930)**
 
 ### 实现 IM
 
