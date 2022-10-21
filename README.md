@@ -30,7 +30,35 @@
 
 ### 实现 IM
 
-`CIM(CROSS-IM)` 一款面向开发者的 `IM(即时通讯)`系统 ，[cim](https://github.com/crossoverJie/cim)
+`CIM(CROSS-IM)` 一款面向开发者的 `IM(即时通讯)`系统 , [cim](https://github.com/crossoverJie/cim)
+
+### 实现 RPC
+
+guide-rpc-framework, [链接](https://github.com/Snailclimb/guide-rpc-framework)
+
+手把手教你简单实现RPC协议, [链接](https://juejin.cn/post/7121298076861464583)
+
+徒手撸rpc, [链接](https://github.com/diaozxin007/DouRpc)
+
+[rpc](https://github.com/houbb/rpc) 是基于 netty 实现的 java rpc 框架，类似于 dubbo ,[链接](https://github.com/houbb/rpc)
+
+动手实现一个简单的RPC框架, [链接](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E9%AB%98%E6%89%8B%E8%AF%BE/31%20%20%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC%E6%A1%86%E6%9E%B6%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%8E%9F%E7%90%86%E5%92%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%BB%93%E6%9E%84.md)
+
+### 实现 IOC
+
+徒手撸框架--实现IoC, [链接](https://xilidou.com/2018/01/08/spring-ioc/)
+
+实现 AOP
+
+徒手撸框架--实现Aop, [链接](https://xilidou.com/2018/01/13/spring-aop/)
+
+### 徒手撸框架--高并发环境下的请求合并
+
+徒手撸框架--高并发环境下的请求合并, [链接](https://xilidou.com/2018/01/22/merge-request/)
+
+### 实现 Raft 算法
+
+一个 Java 版本的 Raft(CP) KV 分布式存储实现, [lu-raft-kv](http://thinkinjava.cn/2019/01/12/2019/2019-01-12-lu-raft-kv/ )
 
 ## Go
 
