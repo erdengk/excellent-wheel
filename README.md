@@ -62,8 +62,15 @@ guide-rpc-framework, [链接](https://github.com/Snailclimb/guide-rpc-framework)
 
 一个 Java 版本的 Raft(CP) KV 分布式存储实现, [lu-raft-kv](http://thinkinjava.cn/2019/01/12/2019/2019-01-12-lu-raft-kv/ )
 
+### 实现Paxos协议（C++）
+
+[链接](https://github.com/zzy590/zpaxos)
+
 ## Go
 
 ### go-docker
 
 用go写一个docker，[地址](https://github.com/pibigstar/go-docker)
+
+
+
