@@ -26,7 +26,7 @@
 
 ### 用java写一个简单的区块链
 
-博客地址: [https://blog.csdn.net/junmoxi/article/details/79740930](https://blog.csdn.net/junmoxi/article/details/79740930)**
+博客地址: [https://blog.csdn.net/junmoxi/article/details/79740930](https://blog.csdn.net/junmoxi/article/details/79740930)
 
 ### 实现 IM
 
@@ -46,6 +46,8 @@ guide-rpc-framework, [链接](https://github.com/Snailclimb/guide-rpc-framework)
 
 动手实现一个简单的RPC框架, [链接](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E9%AB%98%E6%89%8B%E8%AF%BE/31%20%20%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84RPC%E6%A1%86%E6%9E%B6%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%8E%9F%E7%90%86%E5%92%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%BB%93%E6%9E%84.md)
 
+My-RPC-Framework 是一款基于 Nacos 实现的 RPC 框架 [链接](https://github.com/CN-GuoZiyang/My-RPC-Framework)
+
 ### 实现 IOC
 
 徒手撸框架--实现IoC, [链接](https://xilidou.com/2018/01/08/spring-ioc/)
@@ -58,13 +60,23 @@ guide-rpc-framework, [链接](https://github.com/Snailclimb/guide-rpc-framework)
 
 徒手撸框架--高并发环境下的请求合并, [链接](https://xilidou.com/2018/01/22/merge-request/)
 
-### 实现 Raft 算法
+### 实现 kV 数据库
 
 一个 Java 版本的 Raft(CP) KV 分布式存储实现, [lu-raft-kv](http://thinkinjava.cn/2019/01/12/2019/2019-01-12-lu-raft-kv/ )
+
+### 实现数据库
+
+`Java` MIT6.830 [链接](http://db.lcs.mit.edu/6.830/)
+
+`Java` mydb [链接](https://ziyang.moe/cs/project/mydb/)
 
 ### 实现Paxos协议（C++）
 
 [链接](https://github.com/zzy590/zpaxos)
+
+### 手写简易版dubbo，丰富校招简历
+
+[刚毕业老司机带你一步一步手写简易版dubbo，丰富校招简历](nowcoder.com/discuss/post/353158960331038720)
 
 ## Go
 
