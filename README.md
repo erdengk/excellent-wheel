@@ -76,7 +76,7 @@ My-RPC-Framework 是一款基于 Nacos 实现的 RPC 框架 [链接](https://git
 
 ### 手写简易版dubbo，丰富校招简历
 
-[刚毕业老司机带你一步一步手写简易版dubbo，丰富校招简历](nowcoder.com/discuss/post/353158960331038720)
+[刚毕业老司机带你一步一步手写简易版dubbo，丰富校招简历](https://www.nowcoder.com/discuss/353158960331038720)
 
 ## Go
 
