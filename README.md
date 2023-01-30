@@ -86,3 +86,5 @@ My-RPC-Framework 是一款基于 Nacos 实现的 RPC 框架 [链接](https://git
 
 Golang分布式对象存储-活跃更新中 [OSS](https://github.com/gopherWxf/OSS/)
 
+[@tzq0301](https://github.com/tzq0301) Go 分布式对象存储（正宗教程）[https://www.bilibili.com/video/BV1pA411q7wB](https://www.bilibili.com/video/BV1pA411q7wB)
+
