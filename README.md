@@ -92,6 +92,8 @@ Golang分布式对象存储-活跃更新中 [OSS](https://github.com/gopherWxf/O
 
 [golang 实现 JVM](https://github.com/golang-jvm/golang-jvm)
 
+[jvm.go golang实现jvm](https://github.com/zxh0/jvm.go)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=erdengk/excellent-wheel&type=Date)](https://star-history.com/#erdengk/excellent-wheel&Date)
