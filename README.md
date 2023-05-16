@@ -68,7 +68,7 @@ My-RPC-Framework 是一款基于 Nacos 实现的 RPC 框架 [链接](https://git
 
 `Java` MIT6.830 [链接](http://db.lcs.mit.edu/6.830/)
 
-`Java` mydb [链接](https://ziyang.moe/cs/project/mydb/)
+`Java` mydb [链接](https://ziyang.moe/mydb0)
 
 ### 实现Paxos协议（C++）
 
