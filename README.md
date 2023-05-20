@@ -78,6 +78,10 @@ My-RPC-Framework 是一款基于 Nacos 实现的 RPC 框架 [链接](https://git
 
 [刚毕业老司机带你一步一步手写简易版dubbo，丰富校招简历](https://www.nowcoder.com/discuss/353158960331038720)
 
+### 手写JVM
+[Java实现JVM(《自己动手写 java 虚拟机》中的go语言实现改为Java语言实现)](https://zachaxy.github.io/tags/JVM/)
+
+
 ## Go
 
 ### go-docker
